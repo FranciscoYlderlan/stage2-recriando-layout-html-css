@@ -20,6 +20,9 @@ nav ul {
 	list-style: none;
 	gap: 64px;
 }
+nav ul li a:hover {
+	color: #bdb8b8;
+}
 main {
 	display: flex;
 	justify-content: space-between;
